@@ -1,3 +1,4 @@
+<p>I have used nest js as back-end and please update .env file to change the database and port</p>
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
